@@ -1,0 +1,23 @@
+{
+  "name": "projet-back-front-hasa",
+  "version": "1.0.0",
+  "description": "création fichier package.json npm start",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangoule/projet-back-front-hasa.git"
+  },
+  "author": "hasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangoule/projet-back-front-hasa/issues"
+  },
+  "homepage": "https://github.com/Sangoule/projet-back-front-hasa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
